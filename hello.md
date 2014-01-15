@@ -1,8 +1,10 @@
 자기소개
 -----------
 
-이름: 이지명
+이름: 김미선
 
-팀: UX 개발팀
+팀: 개발팀
 
-Github ID: desty
+Github ID: prrain
+
+E-mail : prrain@wemakeprice.com
